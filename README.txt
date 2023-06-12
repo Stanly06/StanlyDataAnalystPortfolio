@@ -1,32 +1,7 @@
-Massively by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+**Data Analysis and Data Science Project Portfolio (Code)**
 
+This repository houses the code and resources used in the creation of my portfolio of data analysis and data science projects. Here you will find a collection of my most prominent projects, showcasing my skills and experience in the field of data analytics.
 
-This is Massively, a text-heavy, article-oriented design built around a huge background
-image (with a new parallax implementation I'm testing) and scroll effects (powered by
-Scrollex). A *slight* departure from all the one-pagers I've been doing lately, but one
-that fulfills a few user requests and makes use of some new techniques I've been wanting
-to try out. Enjoy it :)
+The repository's structure is organized as follows: each project has its own folder that contains the source code, the datasets used, and any other relevant resources. Additionally, there is an image folder that stores screenshots and graphics used in the project documentation. Each project is accompanied by a README.md file that provides a detailed description of the problem addressed, the methods employed, the results obtained, and the steps to execute the code.
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+The objective of this repository is to showcase my expertise in data analysis and the implementation of data science projects. I hope you find the projects interesting and useful for your own studies or applications. If you have any questions or suggestions, feel free to contact me. Enjoy exploring the portfolio!
